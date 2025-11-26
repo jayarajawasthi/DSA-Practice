@@ -19,4 +19,3 @@ int main()
 	int missingNumber = sum - sum1;
 	cout<<missingNumber;
 
-}
